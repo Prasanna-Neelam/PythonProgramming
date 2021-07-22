@@ -2,7 +2,7 @@
 
 n = int(input("How many packages are there: "))
 while n > 0:
-    print(str(n) + " Package collected ⌻")
+    print("Package no: " + str(n) + " collected ⌻")
     print(' ')
     print(" . . . . . . . . . ")
     print(' ')
